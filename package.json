@@ -1,0 +1,29 @@
+{
+  "name": "YedidiaHaouzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "bootstrap": "^4.5.0",
+    "demos-react-captcha": "^1.0.11",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.2.2",
+    "react-dom": "^16.13.1",
+    "react-google-login": "^5.1.21",
+    "react-google-recaptcha-v3": "^1.5.2",
+    "react-hook-form": "^6.0.7",
+    "react-linkedin-login-oauth2": "^1.0.7",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
